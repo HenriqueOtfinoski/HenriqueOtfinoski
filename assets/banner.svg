@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="14" fill="url(#bg)"/>
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.25">
+    <circle cx="80" cy="40" r="30"><animate attributeName="r" values="30;42;30" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="830" cy="160" r="50"><animate attributeName="r" values="50;62;50" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="30" r="18"><animate attributeName="r" values="18;26;18" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="450" y="88" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="url(#tx)">Henrique Otfinoski
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="450" y="130" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#e2e8f0">Computer Science Student  |  Full Stack &amp; IoT Developer in Training
+    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="450" y="162" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#94a3b8">Python · FastAPI · Java · C++ · OpenCV · Raspberry Pi</text>
+</svg>

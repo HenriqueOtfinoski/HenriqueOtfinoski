@@ -1,7 +1,7 @@
 <!-- Header animado -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Henrique%20Otfinoski&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%26%20IoT%20Developer%20in%20Training&descSize=16&descAlignY=60" width="100%" alt="header"/>
+<img src="assets/banner.svg" width="100%" alt="Henrique Otfinoski"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+com+Python+%2B+FastAPI+%F0%9F%90%8D;Java+%E2%98%95+%7C+C%2B%2B+%E2%9A%99%EF%B8%8F+%7C+Algoritmos;Vis%C3%A3o+Computacional+%2B+Raspberry+Pi+%F0%9F%A4%96" alt="Typing SVG" />
@@ -109,23 +109,15 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HenriqueOtfinoski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueOtfinoski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="commit languages"/>
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language"/>
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=HenriqueOtfinoski&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HenriqueOtfinoski&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
-
-</div>
-
-### 📈 Atividade (últimos 31 dias)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueOtfinoski&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
 </div>
 
 ### 🐍 Contribuições
@@ -138,15 +130,9 @@ flowchart LR
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/HenriqueOtfinoski/SAFE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueOtfinoski&repo=SAFE&theme=tokyonight&hide_border=true" alt="SAFE"/>
-</a>
-
-</div>
-
-> ✏️ Para fixar mais projetos, copie o bloco acima trocando `repo=SAFE` pelo nome do repositório.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [🔐 **SAFE**](https://github.com/HenriqueOtfinoski/SAFE) | Controle de acesso por reconhecimento facial integrado a uma FSM em hardware (PI-IV) | `Python` `FastAPI` `OpenCV` `Docker` `Raspberry Pi 5` |
 
 ---
 
@@ -171,6 +157,6 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
 
 </div>
